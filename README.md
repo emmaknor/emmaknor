@@ -7,7 +7,7 @@
 - 💞️  &nbsp; I’m would love to collaborate with engineers interested in creating projects to address social and/or environmental issues.
 - :love_letter: &nbsp; Feel free to reach out to me directly at knoremma@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/emma-knor/).
 
-## Project I've built:
+## A Recent Project I've built:
 
 [E-commerce Application](https://en-shop.herokuapp.com/)
 
