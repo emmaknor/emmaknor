@@ -4,7 +4,7 @@
 - :computer: &nbsp; I’m a full stack software engineer
 - :mortar_board: &nbsp; I recently graduated from Hack Reactor's Software Engineering Immersive.
 - :memo: &nbsp; I'm currently working for Galvanize as a software engineering immersive resident and instructor to support the technical and social growth of future engineers.
-- 💞️  &nbsp; I’m would love to collaborate with engineers interested in creating projects to address social and/or environmental issues.
+- 💞️  &nbsp; I would love to collaborate with engineers interested in creating projects to address social and/or environmental issues.
 - :love_letter: &nbsp; Feel free to reach out to me directly at knoremma@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/emma-knor/).
 
 <!-- ## A Recent Project I've built:
